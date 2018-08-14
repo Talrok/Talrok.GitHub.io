@@ -1,0 +1,58 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="talrok.github.io" resolutions="1x" timestamp="1534256208376">
+  <folder name="css">
+    <file name="site_global.css" crc="489268254"/>
+    <file name="index.css" crc="3922427951" ref="index"/>
+    <file name="iefonts_index.css" crc="3932828824" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="form_check.php" crc="474517188" ref="index"/>
+    <file name="form_throttle.php" crc="495784356" ref="index"/>
+    <file name="form_process.php" crc="4149049960" ref="index"/>
+    <file name="form-u127.php" crc="93671708" ref="index"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
+    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bobby-compact-1-u118-fr.jpg" crc="3982078596" ref="index"/>
+    <file name="020.svg" crc="4079891428" ref="index"/>
+    <file name="020_poster_u171.png" crc="4036495621" ref="index"/>
+    <file name="вставленные-svg-93857x114.svg" crc="389365795" seo="true" ref="index"/>
+    <file name="u143-17.png" crc="3893765607" ref="index"/>
+    <file name="u143-17-r.png" crc="4097235554" ref="index"/>
+    <file name="u143-17-m.png" crc="4097235554" ref="index"/>
+    <file name="u143-17-fs.png" crc="3893765607" ref="index"/>
+    <file name="margins300x200ffffff-image_full-1412-1519800789.jpg" crc="4124029249" ref="index"/>
+    <file name="лого.jpg" crc="3787755680" ref="index"/>
+    <file name="logo1_1.jpg" crc="4165013736" ref="index"/>
+    <file name="1.jpg" crc="3758432660" ref="index"/>
+    <file name="bobby-compact-1.jpg" crc="3844763693" seo="true" ref="index"/>
+    <file name="bobby-compact-2.jpg" crc="257538065" seo="true" ref="index"/>
+    <file name="bobby-compact-3.jpg" crc="180676422" seo="true" ref="index"/>
+    <file name="islands-retina-middle-ieu1705-fr.png" crc="3862972199" ref="index"/>
+    <file name="islands-retina-middle.jpg" crc="4213308437" ref="index"/>
+    <file name="qp2_dltdrhu.jpg" crc="3831462454" ref="index"/>
+    <file name="hpnouhdj_400x400.jpg" crc="3763286922" ref="index"/>
+    <file name="fast-delivery-truck-motion-lines-vector-illustration-85928124.jpg" crc="421375403" seo="true" ref="index"/>
+    <file name="вставленные-svg-286.svg" crc="3775252586" seo="true" ref="index"/>
+    <file name="вставленные svg 286_poster_.png" crc="148068817" ref="index"/>
+    <file name="icons2.svg" crc="3773190141" ref="index"/>
+    <file name="icons2_poster_u1593.png" crc="4265598472" ref="index"/>
+    <file name="вставленные-svg-146x114.svg" crc="531309216" seo="true" ref="index"/>
+    <file name="вставленные svg 146x114_poster_.png" crc="3972892728" ref="index"/>
+    <file name="вставленные-svg-11471x114.svg" crc="366434712" seo="true" ref="index"/>
+    <file name="вставленные svg 11471x114_poster_.png" crc="4091285871" ref="index"/>
+    <file name="вставленные-svg-83428x125.svg" crc="4208945279" seo="true" ref="index"/>
+    <file name="вставленные svg 83428x125_poster_.png" crc="6677921" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4009039753" seo="true" mt="1534256006479" redirect="true"/>
+</manifest>
